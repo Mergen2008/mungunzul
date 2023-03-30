@@ -23,8 +23,8 @@ button:hover p{
     height:50px;
     text-shadow: -1px 0 white,0 1px white,1px 0 white,0 -1px white;
     position:absolute;
-    top:50%;
-    left:75%;
+    top:36%;
+    left:53%;
     font-family:cursive;
     transform: translate(-50%,-50%);
     text-align:center;
